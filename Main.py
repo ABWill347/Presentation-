@@ -39,7 +39,7 @@ subtitle = title_slide.placeholders[1]
 
 title.text = "Effective Work Tracking: Microsoft Planner and Jira"
 
-subtitle.text = "Exploring Two Powerful Tools for Project Management\nYour Name & Date"
+subtitle.text = "Exploring Two Powerful Tools for Project Management"
 
 # Slide 2: Introduction
 
